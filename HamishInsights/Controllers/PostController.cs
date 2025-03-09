@@ -43,7 +43,7 @@ namespace HamishInsights.Controllers
 
         public async Task<IActionResult> Create(PostViewModel postViewModel)
         {
-            _context
+
             return View();
         }
 
